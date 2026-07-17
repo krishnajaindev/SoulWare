@@ -4,7 +4,7 @@
 It provides **accessible, anonymous, and continuous mental health support**, addressing stress, anxiety, and emotional challenges while reducing the stigma around seeking help.
 
 ---
-🚀 **Live Demo Video**: https://youtu.be/BjNYhKhP-Fc
+🚀 <b>Live Demo Video:</b> <a href="https://youtu.be/BjNYhKhP-Fc" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
 
 ---
 
